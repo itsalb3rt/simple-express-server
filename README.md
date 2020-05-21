@@ -1,5 +1,9 @@
 ## Simple express server for run statics sites
 
+It is a personal project to test all my personal and work projects, specifically it is my day to day.
+
+Before uploading anything to production I like to test the final product.
+
 ```bash
 $ npm install
 ```
